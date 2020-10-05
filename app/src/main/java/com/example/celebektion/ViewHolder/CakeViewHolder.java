@@ -1,6 +1,6 @@
 package com.example.celebektion.ViewHolder;
-import com.example.celebektioncakes.Interfaces.ItemClickListner;
-import com.example.celebektioncakes.R;
+import com.example.celebektion.Interfaces.ItemClickListner;
+import com.example.celebektion.R;
 
 import android.view.View;
 import android.widget.Button;

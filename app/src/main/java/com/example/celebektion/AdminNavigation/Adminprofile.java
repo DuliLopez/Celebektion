@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.celebektioncakes.R;
+import com.example.celebektion.R;
 
 /**
  * A simple {@link Fragment} subclass.

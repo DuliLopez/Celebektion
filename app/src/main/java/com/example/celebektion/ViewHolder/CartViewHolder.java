@@ -6,8 +6,8 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.celebektioncakes.Interfaces.ItemClickListner;
-import com.example.celebektioncakes.R;
+import com.example.celebektion.Interfaces.ItemClickListner;
+import com.example.celebektion.R;
 
 public class CartViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 

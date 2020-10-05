@@ -12,9 +12,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.celebektioncakes.Models.Cake;
-import com.example.celebektioncakes.R;
-import com.example.celebektioncakes.Sessions.SessionManagement;
+import com.example.celebektion.Models.Cake;
+import com.example.celebektion.R;
+import com.example.celebektion.Sessions.SessionManagement;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;

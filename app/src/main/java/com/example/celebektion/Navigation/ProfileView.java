@@ -11,11 +11,11 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.celebektioncakes.ClientSide.ChangeAccuntDetails;
-import com.example.celebektioncakes.MainActivity;
-import com.example.celebektioncakes.Models.Member;
-import com.example.celebektioncakes.R;
-import com.example.celebektioncakes.Sessions.SessionManagement;
+import com.example.celebektion.ClientSide.ChangeAccuntDetails;
+import com.example.celebektion.MainActivity;
+import com.example.celebektion.Models.Member;
+import com.example.celebektion.R;
+import com.example.celebektion.Sessions.SessionManagement;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;

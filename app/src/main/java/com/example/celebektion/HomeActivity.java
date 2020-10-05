@@ -11,7 +11,7 @@ import androidx.navigation.ui.NavigationUI;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.celebektioncakes.Sessions.SessionManagement;
+import com.example.celebektion.Sessions.SessionManagement;
 import com.google.android.material.navigation.NavigationView;
 
 public class HomeActivity extends AppCompatActivity {

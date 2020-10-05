@@ -3,8 +3,8 @@ package com.example.celebektion.Sessions;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.example.celebektioncakes.Models.Admin;
-import com.example.celebektioncakes.Models.Member;
+import com.example.celebektion.Models.Admin;
+import com.example.celebektion.Models.Member;
 
 public class SessionManagement {
 

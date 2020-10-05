@@ -10,10 +10,10 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.celebektioncakes.HomeActivity;
-import com.example.celebektioncakes.Models.Member;
-import com.example.celebektioncakes.R;
-import com.example.celebektioncakes.Sessions.SessionManagement;
+import com.example.celebektion.HomeActivity;
+import com.example.celebektion.Models.Member;
+import com.example.celebektion.R;
+import com.example.celebektion.Sessions.SessionManagement;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;

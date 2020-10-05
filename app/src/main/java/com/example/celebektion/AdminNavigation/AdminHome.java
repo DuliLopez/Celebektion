@@ -13,11 +13,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.example.celebektioncakes.AdminSide.AdminViewCakeInside;
-import com.example.celebektioncakes.Models.Cake;
-import com.example.celebektioncakes.R;
-import com.example.celebektioncakes.ViewHolder.AdminCakeViewHolder;
-import com.example.celebektioncakes.ViewHolder.CakeViewHolder;
+import com.example.celebektion.AdminSide.AdminViewCakeInside;
+import com.example.celebektion.Models.Cake;
+import com.example.celebektion.R;
+import com.example.celebektion.ViewHolder.AdminCakeViewHolder;
+import com.example.celebektion.ViewHolder.CakeViewHolder;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.firebase.database.DatabaseReference;
