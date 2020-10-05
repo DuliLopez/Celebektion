@@ -6,22 +6,22 @@
     app:startDestination="@id/navHome">
     <fragment
         android:id="@+id/navHome"
-        android:name="com.example.celebektioncakes.AdminNavigation.AdminHome"
+        android:name="com.example.celebektion.AdminNavigation.AdminHome"
         android:label="fragment_admin_home"
         tools:layout="@layout/fragment_admin_home" />
     <fragment
         android:id="@+id/navProfile"
-        android:name="com.example.celebektioncakes.AdminNavigation.Adminprofile"
+        android:name="com.example.celebektion.AdminNavigation.Adminprofile"
         android:label="fragment_adminprofile"
         tools:layout="@layout/fragment_adminprofile" />
     <fragment
         android:id="@+id/navSettings"
-        android:name="com.example.celebektioncakes.AdminNavigation.AdminSettings"
+        android:name="com.example.celebektion.AdminNavigation.AdminSettings"
         android:label="fragment_admin_settings"
         tools:layout="@layout/fragment_admin_settings" />
     <fragment
         android:id="@+id/AddCake"
-        android:name="com.example.celebektioncakes.Navigation.AddCake"
+        android:name="com.example.celebektion.Navigation.AddCake"
         android:label="fragment_add_cake"
         tools:layout="@layout/fragment_add_cake" />
 </navigation>

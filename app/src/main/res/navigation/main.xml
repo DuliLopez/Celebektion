@@ -6,32 +6,32 @@
     app:startDestination="@id/navHome">
     <fragment
         android:id="@+id/navHome"
-        android:name="com.example.celebektioncakes.Navigation.HomeView"
+        android:name="com.example.celebektion.Navigation.HomeView"
         android:label="fragment_home_view"
         tools:layout="@layout/fragment_home_view" />
     <fragment
         android:id="@+id/navContact"
-        android:name="com.example.celebektioncakes.Navigation.ContactUsView"
+        android:name="com.example.celebektion.Navigation.ContactUsView"
         android:label="fragment_contact_us_view"
         tools:layout="@layout/fragment_contact_us_view" />
     <fragment
         android:id="@+id/navDelivery"
-        android:name="com.example.celebektioncakes.Navigation.DeliveryView"
+        android:name="com.example.celebektion.Navigation.DeliveryView"
         android:label="fragment_delivery_view"
         tools:layout="@layout/fragment_delivery_view" />
     <fragment
         android:id="@+id/navProfile"
-        android:name="com.example.celebektioncakes.Navigation.ProfileView"
+        android:name="com.example.celebektion.Navigation.ProfileView"
         android:label="fragment_profile_view"
         tools:layout="@layout/fragment_profile_view" />
     <fragment
         android:id="@+id/navSettings"
-        android:name="com.example.celebektioncakes.Navigation.SettingsView"
+        android:name="com.example.celebektion.Navigation.SettingsView"
         android:label="fragment_settings_view"
         tools:layout="@layout/fragment_settings_view" />
     <fragment
         android:id="@+id/ViewCart"
-        android:name="com.example.celebektioncakes.Navigation.ViewCart"
+        android:name="com.example.celebektion.Navigation.ViewCart"
         android:label="fragment_view_cart"
         tools:layout="@layout/fragment_view_cart" />
 </navigation>
